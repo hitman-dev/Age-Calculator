@@ -1,6 +1,7 @@
 # age_calculator
 
 A new Flutter application.
+This is a simple Age Calculator which uses animated Calender feature.
 
 ## Getting Started
 
